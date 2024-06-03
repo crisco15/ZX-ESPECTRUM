@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ZX-ESPectrum-Wiimote
 
 > **IMPORTANT**: I stopped working on this project some time ago.
@@ -220,3 +221,7 @@ I have written a detailed story, with photos, of the development process of this
 - [GreenWebSevilla](https://www.instagram.com/greenwebsevilla/) for its Fantasy Zone game and others.
 - Julián Urbano Muñoz for [Speccy Pong](https://www.instagram.com/greenwebsevilla/).
 - Others who have donated distribution rights for this project.
+=======
+# ZX-ESPECTRUM
+Spectrum video game console simulator using ESP-32.
+>>>>>>> a000d2be01e7e2e0074994b12ca0090fe11f71a1
